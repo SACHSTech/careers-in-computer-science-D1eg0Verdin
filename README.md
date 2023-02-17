@@ -1,2 +1,33 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10094514&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science
+ # Machine Learning Enigeering
+ ## Description:
+A machine learning (ML) engineer is in charge of developing artificial intelligence (AI) systems that utilize large data sets to deveolp algorithms to make predictions. ML engineers run tests, organize data, optimize processes and perform other tasks that help imporve the level of machine learning models. The usual responsibilities of a ML engineer involve but are not limited to:
+ + Designing and developing machine learning systems/models
+ + Studyign and converting data science prototypes
+ + Searching and selecting data sets before performing data collection modelling
+ + Performing statistcal analysis
+ + Training ML systems
+ + Analysing ML algorithms
+ + Understanding how ML can be applied to the real world
+ + Verifying data quality
+
+ ## Required Education
+ML engineers comes from a variety of undergraduate and graduate fields. Usuallly, the majority of ML engineers have a bachelors or more in things like:
+- data scinece
+- software engineering
+- data analyst
+- data engineering
+
+## Required Skills
+### Technical Skills:
+- **Computer Programming:** languages involve _C++_, _Java_, _Python_, _R_, _Lisp_ and _Prolog_. ML engineers must be able to write algorithms that can search sort and optimize data. The should have a familiarity with data structures such as stacks, trees, multi-dimensional arrays. The must understand computability and complexity and have a knowledge in computer architecture such as memory, clusters, cache, etc.
+- **Data Science Skills:** proficiency in mathematics, probability and statistics in order to be able to develop useful data sets. Examples are Naive Bayes classifiers, conditional probability, bayes rules, bayes nets, etc
+- **Additional ML Skills:**  training in deep learning, dynamic programming, neural networks, natural language processing, advanced signal processing and optimization of algorithms
+### Non-Technical Skills:
+- **Communication Skills:** must work with other types of engineers and scientists inn order to create a good product, ie, software engineers, data scientists, etc
+- **Problem Solving Skills:** the ability to problem solve is essential because it ML relies on solving problems in real time and being able to solve issues that arise at any certain time
+- **Time Managment:** machine learning engineers often have multiple tasks at the same time and must organize and plans multiple projects at the same time
+-**Thirst for Learning:** the field of AI is one that is constantly changing and evolving therefore even if you have a degree an ML engineer must be constantly learning the newest adavances in the field in order to develop the best products possible
+
+
+
