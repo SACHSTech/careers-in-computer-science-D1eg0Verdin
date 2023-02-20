@@ -33,9 +33,20 @@ ML engineers comes from a variety of undergraduate and graduate fields. Usuallly
 ---
 
 ## Job Placements
-| Job level| Description | Requirements | Salary|
-|-----------|-------------|--------------|-------|
-|Entry|
+### Entry-Level
+| **Position** | **Company** | **Salary** | **Link to Posting** |
+|---|---|---|---|
+| Data Scientist | OMERS | Est: 80k-90k/year | [Company Website Link](https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/details/Data-Scientist_JR-4009?q=junior%20data) |
+**About the Role: **Fostering strong relationships among cross-functional teams and facilitating decision-making within multi-level audiences. Applying a system thinking approach to lead execution of data, analytics, and AI initiatives quickly and in collaboration with other teams 
+• Driving the implementation of corporate/strategic objectives via AI/ML driven projects and seeing opportunities 
+• Building ML projects from experiments and hands-on solutioning through to production
+ • Implementing model tracking, updating, and auto-train capabilities in addition to accounting for drift and imbalance
+ • Building and maintaining NLP models using state of the art techniques like transformers and seq2seq for the purposes of classification, sentiment analysis, entity extraction, and more
+ • Driving analytics innovation by posing open ended questions, exploring new ideas, recommending the appropriate techniques to solve challenging business problems and rapid prototyping
+ • Developing, deploying, and operationalizing data science products along with the supporting integrated tools and processes, including but not limited to security, performance, scalability, and extendibility
+ • Hands on creation and oversight of analytical models, conducting model training, validation, testing, integrated reconciliations and ongoing data and model integrity maintenance 
+• Remaining on the “leading edge” of emerging data, analytics and AI technologies and techniques to identify and implement novel tools and techniques and their application to new use cases and deployment opportunities 
+• Driving a culture of innovation and AI by taking initiatives for activities such as lunch and learns, hackathons, paper readouts, etc.
 
-
+---
 
