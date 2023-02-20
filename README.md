@@ -10,13 +10,15 @@ A machine learning (ML) engineer is in charge of developing artificial intellige
  + Analysing ML algorithms
  + Understanding how ML can be applied to the real world
  + Verifying data quality
-
+---
  ## Required Education
 ML engineers comes from a variety of undergraduate and graduate fields. Usuallly, the majority of ML engineers have a bachelors or more in things like:
 - data scinece
 - software engineering
 - data analyst
 - data engineering
+
+*** 
 
 ## Required Skills
 ### Technical Skills:
@@ -27,7 +29,13 @@ ML engineers comes from a variety of undergraduate and graduate fields. Usuallly
 - **Communication Skills:** must work with other types of engineers and scientists inn order to create a good product, ie, software engineers, data scientists, etc
 - **Problem Solving Skills:** the ability to problem solve is essential because it ML relies on solving problems in real time and being able to solve issues that arise at any certain time
 - **Time Managment:** machine learning engineers often have multiple tasks at the same time and must organize and plans multiple projects at the same time
--**Thirst for Learning:** the field of AI is one that is constantly changing and evolving therefore even if you have a degree an ML engineer must be constantly learning the newest adavances in the field in order to develop the best products possible
+- **Thirst for Learning:** the field of AI is one that is constantly changing and evolving therefore even if you have a degree an ML engineer must be constantly learning the newest adavances in the field in order to develop the best products possible
+---
+
+## Job Placements
+| Job level| Description | Requirements | Salary|
+|-----------|-------------|--------------|-------|
+|Entry|
 
 
 
