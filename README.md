@@ -80,7 +80,8 @@ ML engineers comes from a variety of undergraduate and graduate fields. Usuallly
  Machine Learning Engineer | Cresecndo Tech | Est: 100k-130k/year | [Company Website Link](https://crescendotechnology.com/jobs/machine-learning-engineer/) | 
 
 **About the Role:**
-A Machine Learning Engineer will be responsible for developing algorithms that will be the basis of our mathematical models used to understand and automate the trading process of sports betting markets. The candidate must have a strong background in Machine Learning, Statistics, and Algorithm Development.
+
+>A Machine Learning Engineer will be responsible for developing algorithms that will be the basis of our mathematical models used to understand and automate the trading process of sports betting markets. The candidate must have a strong background in Machine Learning, Statistics, and Algorithm Development.
 
 **Job Requirements:**
 - Degree or Diploma in Computer Science, Software Engineering, Computational Statistics or equivalent degree or experience. An MS or PHD in Computer Science, specializing in Machine Learning is desirable.
@@ -111,7 +112,8 @@ A Machine Learning Engineer will be responsible for developing algorithms that w
 Senior Staff Machine Learning Engineer | Uber | Est: 200k-230k/year | [Company Website Link](https://www.uber.com/global/en/careers/list/120180/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply) | 
 
 **About the Role:**
-Engages with stakeholders across teams to lead the design, development, optimization, and productization of machine learning (ML) or ML-based solutions and systems that are used to solve highly complex or vaguely defined problems. This role also leads efforts across teams to leverage and improve ML infrastructure for model development, training, deployment needs and scaling ML systems.
+
+>Engages with stakeholders across teams to lead the design, development, optimization, and productization of machine learning (ML) or ML-based solutions and systems that are used to solve highly complex or vaguely defined problems. This role also leads efforts across teams to leverage and improve ML infrastructure for model development, training, deployment needs and scaling ML systems.
 
 **Job Requirements:**
 - PhD or equivalent in Computer Science, Engineering, Mathematics or related field AND 2-years full-time Software Engineering work experience OR 5-years full-time Software Engineering work experience, WHICH INCLUDES 3-years total technical software engineering experience in one or more of the following areas:
@@ -136,3 +138,76 @@ Descriptioon of the course as found in the [university website](https://uwaterlo
 - Physics (minimum final grade of 70% is required)
 - English (ENG4U) (minimum final grade of 70% is required)
 
+**First Year Sample Schedule:**
+| **_Course Code_** | **_Name_** | **_Description_** | **_Semester_** |
+|---|---|---|---|
+| CS 137 | Programming Principles | Review of fundamental programming concepts and their application. | 1 |
+| ECE 105 | Classical Mechanincs | Forces in nature and Newton's laws, dynamics and circular motion, work, energy, and conservation of energy. | 1 |
+| MATH 115 | Linear Algebra | Linear equations, matrices and determinants. | 1 |
+| MATH 117 | Calculus 1 for Eng | Functions, operations, trigonometry, differientation, integrals. | 1 |
+| MATH 137 | Algerbra for Honours Mathematics | An introduction to the language of math and proof techniques. | 1 |
+| SE 101 | Intro. to Methods of Software Engineering | An introduction to methods and principles used by software engineers. | 1 |
+| CS 138 | Introduction to Data Abstraction | Software abstractions via elementary data structures and their implementation | 2 |
+| ECE 106 | Electric and Magnetism | Electrostatics, capacitors, resistors, magneto static, inductors and time varying fields | 2 |
+| ECE 124 | Digital Circuits and Systems | Number systems and boolean arithmetic | 2 |
+| ECE 140 | Linear Circuits | Analysis of linear circuits. Preparing for conducting and reporting of laboratory experiments | 2 |
+| MATH 119 | Calculus 2 for Engineering | Elementary approximation methods, infinite series, functions of several variables, vector valued functions. | 2 |
+| SE 102 | Seminar | General Seminar | 2 |
+
+**Time Frame:** due to waterloos co-op program the course takes around five years to complete
+
+---
+## Valuable Expirences that Make for a Stronger Candidate
+### Machine Learning Competitions
+<img src = "kaggle.png">
+
+- Things such as kaggle provide opportunities for all skill levels to get valuable experience in machine learning under their belt. Multiple competitions allow you to always be competing for prizes and to learn new and useful skills for the workplace
+
+### Participating in Conferences
+<img src = "conferincing.jpeg" width="400" height = "200">
+
+- A way to showcase your work and practice several softskills that are necessary for the job. Participating in them allows you showcase your skills to the world and might make you an interesting candidate for other companies
+
+### Freelancing
+<img src = "freelancin.png" width = "400" height = "200">
+
+- Can allow you to gaine experience in specific domains as every project is completely different to the other, it allows for you to practice your skills in a real world scenario and there is a project for any skill level
+- It allows you to practice your skills in time managing and working with clients. 
+
+### Work Expirience in Software Engineering
+<img src = "progam.webp">
+
+- Most ML engineers come from other backgrounds and usually already have industry experiences, such as a job at as a software engineer or a data scientists
+
+
+#                               Work Cited
+
+Coursera. “Machine Learning Engineer Salary: How Much Can You Make?” Coursera, 29 Aug. 2022, https://www.coursera.org/articles/machine-learning-engineer-salary. Accessed 15 Feb. 2023.
+‌
+
+“How to Become a Machine Learning Engineer in 2020.” DiscoverDataScience.org, https://www.discoverdatascience.org/career-information/machine-learning-engineer/.
+‌
+
+“Machine Learning Engineer – Crescendo Technology.” Crescendotechnology.com, https://crescendotechnology.com/jobs/machine-learning-engineer/. Accessed 20 Feb. 2023.
+‌
+
+Morgunov, Anton. “What Makes a Successful Machine Learning Engineer? My Story.” Neptune.ai, 21 July 2022, https://neptune.ai/blog/what-makes-a-successful-machine-learning-engineer-my-story. Accessed 15 Feb. 2023.
+‌
+
+OMERS. “Junior Data Scientist.” Omers.wd3.Myworkdayjobs.com, 2023, https://omers.wd3.myworkdayjobs.com/en-US/OMERS_External/details/Data-Scientist_JR-4009?q=junior%20data. Accessed 20 Feb. 2023.
+‌
+
+Tech Republic Staff. “How to Become a Machine Learning Engineer: A Cheat Sheet.” TechRepublic, 4 Apr. 2022, https://www.techrepublic.com/article/how-to-become-a-machine-learning-engineer-a-cheat-sheet/. Accessed 20 Feb. 2023.
+‌
+
+Uber. “Staff Machine Learning Engineer Postion.” Uber, 2023, https://www.uber.com/global/en/careers/list/120180/?utm_campaign=google_jobs_apply&utm_medium=organic&utm_source=google_jobs_apply.
+‌
+
+UCR. “How to Become a Machine Learning Engineer.” UC Riverside, 1 Nov. 2019, https://engineeringonline.ucr.edu/blog/how-to-become-a-machine-learning-engineer/. Accessed 15 Feb. 2023.
+‌
+
+University of Waterloo. “Courses for Your Software Engineering Degree.” Undergraduate Programs, 8 July 2021, https://uwaterloo.ca/future-students/courses/software-engineering.
+‌
+
+---. “Software Engineering.” Undergraduate Programs, 21 May 2019, https://uwaterloo.ca/future-students/programs/software-engineering.
+‌
